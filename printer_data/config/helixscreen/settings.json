@@ -43,42 +43,6 @@
     "entries": [
       {
         "phases": {
-          "2": 87,
-          "7": 139
-        },
-        "temp_bucket": 1,
-        "timestamp": 1780137562,
-        "total": 376
-      },
-      {
-        "phases": {
-          "2": 260,
-          "7": 138
-        },
-        "temp_bucket": 1,
-        "timestamp": 1784456733,
-        "total": 399
-      },
-      {
-        "phases": {
-          "2": 51,
-          "7": 211
-        },
-        "temp_bucket": 1,
-        "timestamp": 1786871614,
-        "total": 414
-      },
-      {
-        "phases": {
-          "2": 231,
-          "7": 213
-        },
-        "temp_bucket": 1,
-        "timestamp": 1786893390,
-        "total": 445
-      },
-      {
-        "phases": {
           "2": 24,
           "7": 111
         },
@@ -130,6 +94,51 @@
         "temp_bucket": 2,
         "timestamp": 1786905214,
         "total": 399
+      },
+      {
+        "phases": {
+          "2": 87,
+          "7": 139
+        },
+        "temp_bucket": 1,
+        "timestamp": 1780137562,
+        "total": 376
+      },
+      {
+        "phases": {
+          "2": 260,
+          "7": 138
+        },
+        "temp_bucket": 1,
+        "timestamp": 1784456733,
+        "total": 399
+      },
+      {
+        "phases": {
+          "2": 51,
+          "7": 211
+        },
+        "temp_bucket": 1,
+        "timestamp": 1786871614,
+        "total": 414
+      },
+      {
+        "phases": {
+          "2": 231,
+          "7": 213
+        },
+        "temp_bucket": 1,
+        "timestamp": 1786893390,
+        "total": 445
+      },
+      {
+        "phases": {
+          "2": 246,
+          "7": 224
+        },
+        "temp_bucket": 1,
+        "timestamp": 1787069903,
+        "total": 471
       }
     ]
   },
