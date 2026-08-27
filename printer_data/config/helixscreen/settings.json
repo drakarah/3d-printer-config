@@ -314,7 +314,7 @@
             "temperature_sensor Hexaboard",
             "temperature_sensor FlyD5"
           ],
-          "timestamp": "2026-08-27T09:40:42Z"
+          "timestamp": "2026-08-27T10:16:12Z"
         },
         "optional": []
       },
@@ -323,6 +323,9 @@
         "hotend": "extruder"
       },
       "leds": {
+        "auto_paired_bases": [
+          "SET_NOZZLE_LEDS"
+        ],
         "auto_state": {},
         "color_presets": [
           "#FFFFFF",
@@ -338,7 +341,16 @@
         "last_color": "#FFFFFF",
         "last_white": 0.0,
         "led_on_at_start": false,
-        "macro_devices": [],
+        "macro_devices": [
+          {
+            "name": "Set Nozzle Leds",
+            "off_macro": "SET_NOZZLE_LEDS_OFF",
+            "on_macro": "SET_NOZZLE_LEDS_ON",
+            "presets": [],
+            "toggle_macro": "",
+            "type": "on_off"
+          }
+        ],
         "selected": [],
         "selected_strips": [
           "output_pin caselight"
